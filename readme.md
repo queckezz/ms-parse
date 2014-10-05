@@ -17,7 +17,9 @@ packin install structs/ms-parse
 Parse given `ms`.
 
 ## Tests
-`make`
+```bash
+make
+```
 
 ## Licence
 
