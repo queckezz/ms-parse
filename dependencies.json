@@ -1,0 +1,6 @@
+{
+  "development": {
+    "jest": "http://github.com/jkroso/jest/tarball/0.0.2"
+  },
+  "production": {}
+}
